@@ -163,7 +163,7 @@ li {
 }
 
 .social {
-    position: fixed;
+    position: relative;
     bottom: 0px;
     margin-left: 20px;
     padding-left: 36%;
